@@ -8,6 +8,8 @@ public class proverka {
 
     proverka () {
 
+        // добавление новой тематической ветки new iss1
+        int a = 19;
 
     }
 }
